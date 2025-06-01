@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-01 15:22:58,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-06-01 23:38:06,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -762,15 +762,14 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=978cd8731706199708
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
+无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872#http://stream.thmz.com/wxtv2/playlist.m3u8#http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
 无锡新闻综合,http://m.m3u8.wifiwx.com/live/wifiwx-239.m3u8?zjiangsd
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028
-无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361#http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028#http://stream.thmz.com/wxtv1/playlist.m3u8
 无锡生活,https://stream.thmz.com/wxtv4/playlist.m3u8
 无锡生活,http://m.m3u8.wifiwx.com/live/wifiwx-244.m3u8?zjiangsd
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708
-无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
 江苏城市,http://z.b.bkpcp.top/m.php?id=jscs
 江苏城市,https://stream1.freetv.fun/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.ctv
 江苏影视,http://z.b.bkpcp.top/m.php?id=jsys
@@ -793,7 +792,6 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-12.ctv
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-1.m3u8
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-3.m3u8
-湖南都市,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
 湖南经视,https://stream1.freetv.fun/hu-nan-jing-shi-10.ctv
 湖南经视,https://stream1.freetv.fun/hu-nan-jing-shi-4.m3u8
 湖南经视,https://stream1.freetv.fun/hu-nan-jing-shi-14.m3u8
@@ -825,6 +823,7 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 湖南电影,https://stream1.freetv.fun/hu-nan-dian-ying-6.m3u8
 湖南电影,https://stream1.freetv.fun/hu-nan-dian-ying-2.m3u8
 湖南爱晚,http://php.jdshipin.com:8880/iptv.php
+湖南爱晚,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngg
 湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-6.ctv
 湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-4.m3u8
 湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-5.m3u8
@@ -847,6 +846,7 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 湖南国际,https://stream1.freetv.fun/hu-nan-guo-ji-2.ctv
 湖南国际,https://stream1.freetv.fun/hu-nan-guo-ji-3.m3u8
 湖南国际,http://php.jdshipin.com:8880/iptv.php
+湖南国际,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngj
 湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-5.ctv
 湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-1.m3u8
 湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-4.m3u8
@@ -1147,7 +1147,6 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 延边卫视,https://stream1.freetv.fun/yan-bian-wei-shi-15.m3u8
 延边卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 延边卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
 吉林都市,https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1745796321&key=ba85da6410cdc8b830d46c3182ad7775
 吉林都市,https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1746307365&key=85abbfb19768c29f883db499d3c1114f
 吉林生活,https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1745796321&key=8386cb03e732cd707a483bb89f1216af

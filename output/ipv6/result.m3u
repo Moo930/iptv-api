@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Moo930/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-06-01 15:22:58
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-06-01 23:38:06
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1493,14 +1493,14 @@ http://stream.thmz.com/wxtv2/sd/live.m3u8
 http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=978cd8731706199708
 #EXTINF:-1 tvg-name="无锡娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡娱乐.png" group-title="☘️江苏频道",无锡娱乐
 http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
+#EXTINF:-1 tvg-name="无锡娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡娱乐.png" group-title="☘️江苏频道",无锡娱乐
+http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872#http://stream.thmz.com/wxtv2/playlist.m3u8#http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
 #EXTINF:-1 tvg-name="无锡新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡新闻综合.png" group-title="☘️江苏频道",无锡新闻综合
 http://m.m3u8.wifiwx.com/live/wifiwx-239.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="无锡新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡新闻综合.png" group-title="☘️江苏频道",无锡新闻综合
 http://stream.thmz.com/wxtv1/sd/live.m3u8
 #EXTINF:-1 tvg-name="无锡新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡新闻综合.png" group-title="☘️江苏频道",无锡新闻综合
 http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028
-#EXTINF:-1 tvg-name="无锡新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡新闻综合.png" group-title="☘️江苏频道",无锡新闻综合
-http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361#http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028#http://stream.thmz.com/wxtv1/playlist.m3u8
 #EXTINF:-1 tvg-name="无锡生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡生活.png" group-title="☘️江苏频道",无锡生活
 https://stream.thmz.com/wxtv4/playlist.m3u8
 #EXTINF:-1 tvg-name="无锡生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡生活.png" group-title="☘️江苏频道",无锡生活
@@ -1509,8 +1509,6 @@ http://m.m3u8.wifiwx.com/live/wifiwx-244.m3u8?zjiangsd
 http://stream.thmz.com/wxtv4/sd/live.m3u8
 #EXTINF:-1 tvg-name="无锡生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡生活.png" group-title="☘️江苏频道",无锡生活
 http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708
-#EXTINF:-1 tvg-name="无锡生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡生活.png" group-title="☘️江苏频道",无锡生活
-http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏城市.png" group-title="☘️江苏频道",江苏城市
 http://z.b.bkpcp.top/m.php?id=jscs
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏城市.png" group-title="☘️江苏频道",江苏城市
@@ -1551,8 +1549,6 @@ https://stream1.freetv.fun/hu-nan-du-shi-12.ctv
 https://stream1.freetv.fun/hu-nan-du-shi-1.m3u8
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南都市.png" group-title="☘️湖南频道",湖南都市
 https://stream1.freetv.fun/hu-nan-du-shi-3.m3u8
-#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南都市.png" group-title="☘️湖南频道",湖南都市
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南经视.png" group-title="☘️湖南频道",湖南经视
 https://stream1.freetv.fun/hu-nan-jing-shi-10.ctv
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南经视.png" group-title="☘️湖南频道",湖南经视
@@ -1615,6 +1611,8 @@ https://stream1.freetv.fun/hu-nan-dian-ying-6.m3u8
 https://stream1.freetv.fun/hu-nan-dian-ying-2.m3u8
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南爱晚.png" group-title="☘️湖南频道",湖南爱晚
 http://php.jdshipin.com:8880/iptv.php
+#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南爱晚.png" group-title="☘️湖南频道",湖南爱晚
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngg
 #EXTINF:-1 tvg-name="湖南教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南教育.png" group-title="☘️湖南频道",湖南教育
 https://stream1.freetv.fun/hu-nan-jiao-yu-6.ctv
 #EXTINF:-1 tvg-name="湖南教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南教育.png" group-title="☘️湖南频道",湖南教育
@@ -1659,6 +1657,8 @@ https://stream1.freetv.fun/hu-nan-guo-ji-2.ctv
 https://stream1.freetv.fun/hu-nan-guo-ji-3.m3u8
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南国际.png" group-title="☘️湖南频道",湖南国际
 http://php.jdshipin.com:8880/iptv.php
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南国际.png" group-title="☘️湖南频道",湖南国际
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngj
 #EXTINF:-1 tvg-name="湖南公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南公共.png" group-title="☘️湖南频道",湖南公共
 https://stream1.freetv.fun/hu-nan-gong-gong-5.ctv
 #EXTINF:-1 tvg-name="湖南公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南公共.png" group-title="☘️湖南频道",湖南公共
@@ -2191,8 +2191,6 @@ https://stream1.freetv.fun/yan-bian-wei-shi-15.m3u8
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视.png" group-title="☘️吉林频道",延边卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视.png" group-title="☘️吉林频道",延边卫视
-http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
 #EXTINF:-1 tvg-name="吉林都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林都市.png" group-title="☘️吉林频道",吉林都市
 https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1745796321&key=ba85da6410cdc8b830d46c3182ad7775
 #EXTINF:-1 tvg-name="吉林都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林都市.png" group-title="☘️吉林频道",吉林都市
