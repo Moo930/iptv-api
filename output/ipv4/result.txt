@@ -1,63 +1,47 @@
 🕘️更新时间,#genre#
-2025-09-01 13:18:08,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
+2025-09-02 07:15:19,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
-CCTV-1,http://www.cdnstv.com:6398/hls/1/index.m3u8
 CCTV-2,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
-CCTV-2,http://www.cdnstv.com:6398/hls/2/index.m3u8
 CCTV-3,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3
-CCTV-3,http://www.cdnstv.com:6398/hls/3/index.m3u8
 CCTV-4,http://222.129.32.255:4022/rtp/239.3.1.105:8092
 CCTV-4,http://121.60.56.116:10001/rtp/239.69.1.138:10466
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4,http://www.cdnstv.com:6398/hls/4/index.m3u8
 CCTV-5,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
 CCTV-5,http://222.129.32.255:4022/rtp/239.3.1.173:8001
 CCTV-5,http://121.60.56.116:10001/rtp/239.69.1.123:10376
-CCTV-5,http://www.cdnstv.com:6398/hls/5/index.m3u8
 CCTV-5+,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
 CCTV-6,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv6
-CCTV-6,http://www.cdnstv.com:6398/hls/6/index.m3u8
 CCTV-7,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv7
-CCTV-7,http://www.cdnstv.com:6398/hls/7/index.m3u8
 CCTV-8,http://222.129.32.255:4022/rtp/239.3.1.175:8001
-CCTV-8,http://www.cdnstv.com:6398/hls/8/index.m3u8
 CCTV-9,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv9
-CCTV-9,http://www.cdnstv.com:6398/hls/9/index.m3u8
 CCTV-10,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv10
-CCTV-10,http://www.cdnstv.com:6398/hls/10/index.m3u8
 CCTV-11,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv11
-CCTV-11,http://www.cdnstv.com:6398/hls/11/index.m3u8
 CCTV-12,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv12
-CCTV-12,http://www.cdnstv.com:6398/hls/12/index.m3u8
 CCTV-13,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
-CCTV-13,http://www.cdnstv.com:6398/hls/13/index.m3u8
 CCTV-14,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv14
-CCTV-14,http://www.cdnstv.com:6398/hls/14/index.m3u8
 CCTV-15,http://121.60.56.116:10001/rtp/239.69.1.155:10566
-CCTV-15,http://www.cdnstv.com:6398/hls/15/index.m3u8
 CCTV-16,http://222.129.32.255:4022/rtp/239.3.1.184:8001
 CCTV-16,http://61.149.251.202:4022/rtp/239.3.1.184:8001
-CCTV-16,http://58.48.104.196:4022/rtp/239.69.1.247:11124
 CCTV-16,http://121.60.56.116:10001/rtp/239.69.1.247:11124
 CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
 CCTV-17,http://61.149.251.202:4022/rtp/239.3.1.151:8144
 CCTV-17,http://123.116.125.121:8012/rtp/239.3.1.151:8144
-CCTV-17,http://58.48.104.196:4022/rtp/239.69.1.152:10548
-CCTV-17,http://www.cdnstv.com:6398/hls/17/index.m3u8
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hubws
 东方卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dfws
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江苏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsws
+江苏卫视,http://sh.lnott.top:880/dx33.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 陕西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=sxws
 
@@ -65,8 +49,8 @@ CCTV-17,http://www.cdnstv.com:6398/hls/17/index.m3u8
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
 
 ☘️浙江频道,#genre#
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
 浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
@@ -116,8 +100,8 @@ CCTV-17,http://www.cdnstv.com:6398/hls/17/index.m3u8
 河南都市,http://1.94.31.214/php/hntv.php?id=hnds
 河南都市,http://www.lwfz.fun:8800/rtp/239.16.20.164:11640
 河南都市,http://ik6.iptv8.net:8888/rtp/225.1.4.52:1081
-河南民生,http://www.lwfz.fun:8800/rtp/239.16.20.165:11650
 河南民生,http://ik6.iptv8.net:8888/rtp/225.1.4.53:1082
+河南民生,http://www.lwfz.fun:8800/rtp/239.16.20.165:11650
 
 ☘️河北频道,#genre#
 河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
@@ -132,7 +116,6 @@ CCTV-17,http://www.cdnstv.com:6398/hls/17/index.m3u8
 哈密三套,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 
 ☘️山东频道,#genre#
-山东新闻,http://live.xmcdn.com/live/1440/64.m3u8
 
 ☘️山西频道,#genre#
 
@@ -162,9 +145,7 @@ CCTV-17,http://www.cdnstv.com:6398/hls/17/index.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 
