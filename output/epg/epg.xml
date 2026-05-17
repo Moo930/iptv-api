@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260517073222 +0800">
+<tv date="20260517235329 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -11988,99 +11988,6 @@
 	<channel id="优漫卡通">
 		<display-name lang="zh">优漫卡通</display-name>
 	</channel>
-	<programme channel="优漫卡通" start="20260511000000 +0800" stop="20260511003000 +0800">
-		<title lang="zh">迷你特工队之最强恐龙</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511003000 +0800" stop="20260511010000 +0800">
-		<title lang="zh">海底小纵队</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511010000 +0800" stop="20260511050000 +0800">
-		<title lang="zh">棉花糖和云朵妈妈暖心回响</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511050000 +0800" stop="20260511060000 +0800">
-		<title lang="zh">无敌鹿战队</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511060000 +0800" stop="20260511070000 +0800">
-		<title lang="zh">新大头儿子和小头爸爸智能小当家</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511070000 +0800" stop="20260511080000 +0800">
-		<title lang="zh">精灵梦叶罗丽</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511080000 +0800" stop="20260511083000 +0800">
-		<title lang="zh">愿望喵喵</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511083000 +0800" stop="20260511090000 +0800">
-		<title lang="zh">迷你特工队之最强恐龙</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511090000 +0800" stop="20260511100000 +0800">
-		<title lang="zh">猪猪侠竞速小英雄</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511100000 +0800" stop="20260511110000 +0800">
-		<title lang="zh">新大头儿子和小头爸爸智能小当家</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511110000 +0800" stop="20260511120000 +0800">
-		<title lang="zh">精灵梦叶罗丽</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511120000 +0800" stop="20260511123000 +0800">
-		<title lang="zh">海底小纵队</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511123000 +0800" stop="20260511133000 +0800">
-		<title lang="zh">出发吧少年</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511133000 +0800" stop="20260511135500 +0800">
-		<title lang="zh">少年故事大会</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511135500 +0800" stop="20260511140000 +0800">
-		<title lang="zh">新大头儿子和小头爸爸英雄梦</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511140000 +0800" stop="20260511150000 +0800">
-		<title lang="zh">新大头儿子和小头爸爸智能小当家</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511150000 +0800" stop="20260511160000 +0800">
-		<title lang="zh">精灵梦叶罗丽</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511160000 +0800" stop="20260511170000 +0800">
-		<title lang="zh">猪猪侠竞速小英雄</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511170000 +0800" stop="20260511180000 +0800">
-		<title lang="zh">我爱古诗词</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511180000 +0800" stop="20260511182500 +0800">
-		<title lang="zh">来玩吧</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511182500 +0800" stop="20260511185500 +0800">
-		<title lang="zh">我爱古诗词</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511185500 +0800" stop="20260511190000 +0800">
-		<title lang="zh">新大头儿子和小头爸爸英雄梦</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511190000 +0800" stop="20260511190500 +0800">
-		<title lang="zh">来玩吧</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511190500 +0800" stop="20260511193500 +0800">
-		<title lang="zh">愿望喵喵</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511193500 +0800" stop="20260511200500 +0800">
-		<title lang="zh">迷你特工队之最强恐龙</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511200500 +0800" stop="20260511204000 +0800">
-		<title lang="zh">喜羊羊与灰太狼之筐出胜利</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511204000 +0800" stop="20260511210000 +0800">
-		<title lang="zh">优漫星未来</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511210000 +0800" stop="20260511220000 +0800">
-		<title lang="zh">精灵梦叶罗丽</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511220000 +0800" stop="20260511233000 +0800">
-		<title lang="zh">凤凰台上</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511233000 +0800" stop="20260511235900 +0800">
-		<title lang="zh">愿望喵喵</title>
-	</programme>
-	<programme channel="优漫卡通" start="20260511235900 +0800" stop="20260512000000 +0800">
-		<title lang="zh">结束</title>
-	</programme>
 	<programme channel="优漫卡通" start="20260512000000 +0800" stop="20260512003000 +0800">
 		<title lang="zh">迷你特工队之最强恐龙</title>
 	</programme>
@@ -12654,9 +12561,6 @@
 	<programme channel="优漫卡通" start="20260518010000 +0800" stop="20260518050000 +0800">
 		<title lang="zh">棉花糖和云朵妈妈暖心回响</title>
 	</programme>
-	<programme channel="优漫卡通" start="20260518010000 +0800" stop="20260518050000 +0800">
-		<title lang="zh">棉花糖和云朵妈妈暖心回响</title>
-	</programme>
 	<programme channel="优漫卡通" start="20260518050000 +0800" stop="20260518060000 +0800">
 		<title lang="zh">无敌鹿战队</title>
 	</programme>
@@ -12673,7 +12577,7 @@
 		<title lang="zh">迷你特工队之最强恐龙</title>
 	</programme>
 	<programme channel="优漫卡通" start="20260518090000 +0800" stop="20260518100000 +0800">
-		<title lang="zh">无敌鹿战队</title>
+		<title lang="zh">猪猪侠竞速小英雄</title>
 	</programme>
 	<programme channel="优漫卡通" start="20260518100000 +0800" stop="20260518110000 +0800">
 		<title lang="zh">棉花糖和云朵妈妈暖心回响</title>
@@ -12684,11 +12588,11 @@
 	<programme channel="优漫卡通" start="20260518120000 +0800" stop="20260518123000 +0800">
 		<title lang="zh">海底小纵队</title>
 	</programme>
-	<programme channel="优漫卡通" start="20260518123000 +0800" stop="20260518125500 +0800">
-		<title lang="zh">来玩吧</title>
+	<programme channel="优漫卡通" start="20260518123000 +0800" stop="20260518133000 +0800">
+		<title lang="zh">出发吧少年</title>
 	</programme>
-	<programme channel="优漫卡通" start="20260518125500 +0800" stop="20260518135500 +0800">
-		<title lang="zh">无敌鹿战队</title>
+	<programme channel="优漫卡通" start="20260518133000 +0800" stop="20260518135500 +0800">
+		<title lang="zh">少年故事大会</title>
 	</programme>
 	<programme channel="优漫卡通" start="20260518135500 +0800" stop="20260518140000 +0800">
 		<title lang="zh">新大头儿子和小头爸爸英雄梦</title>
@@ -12700,16 +12604,16 @@
 		<title lang="zh">少年英雄小哪吒</title>
 	</programme>
 	<programme channel="优漫卡通" start="20260518160000 +0800" stop="20260518170000 +0800">
-		<title lang="zh">无敌鹿战队</title>
+		<title lang="zh">猪猪侠竞速小英雄</title>
 	</programme>
 	<programme channel="优漫卡通" start="20260518170000 +0800" stop="20260518180000 +0800">
-		<title lang="zh">海底小纵队</title>
+		<title lang="zh">我爱古诗词</title>
 	</programme>
 	<programme channel="优漫卡通" start="20260518180000 +0800" stop="20260518182500 +0800">
 		<title lang="zh">来玩吧</title>
 	</programme>
 	<programme channel="优漫卡通" start="20260518182500 +0800" stop="20260518185500 +0800">
-		<title lang="zh">奔奔小飞车</title>
+		<title lang="zh">我爱古诗词</title>
 	</programme>
 	<programme channel="优漫卡通" start="20260518185500 +0800" stop="20260518190000 +0800">
 		<title lang="zh">新大头儿子和小头爸爸英雄梦</title>
@@ -12723,118 +12627,115 @@
 	<programme channel="优漫卡通" start="20260518193500 +0800" stop="20260518200500 +0800">
 		<title lang="zh">迷你特工队之最强恐龙</title>
 	</programme>
-	<programme channel="优漫卡通" start="20260518200500 +0800" stop="20260518210000 +0800">
+	<programme channel="优漫卡通" start="20260518200500 +0800" stop="20260518235900 +0800">
+		<title lang="zh">23:30 愿望喵喵</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260518235900 +0800" stop="20260519000000 +0800">
+		<title lang="zh">结束</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519000000 +0800" stop="20260519003000 +0800">
+		<title lang="zh">迷你特工队之最强恐龙</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519003000 +0800" stop="20260519010000 +0800">
+		<title lang="zh">海底小纵队</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519010000 +0800" stop="20260519050000 +0800">
+		<title lang="zh">棉花糖和云朵妈妈暖心回响</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519050000 +0800" stop="20260519060000 +0800">
 		<title lang="zh">无敌鹿战队</title>
 	</programme>
-	<programme channel="优漫卡通" start="20260518210000 +0800" stop="20260518220000 +0800">
+	<programme channel="优漫卡通" start="20260519060000 +0800" stop="20260519070000 +0800">
+		<title lang="zh">棉花糖和云朵妈妈暖心回响</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519070000 +0800" stop="20260519080000 +0800">
 		<title lang="zh">少年英雄小哪吒</title>
 	</programme>
-	<programme channel="优漫卡通" start="20260518220000 +0800" stop="20260518233000 +0800">
+	<programme channel="优漫卡通" start="20260519080000 +0800" stop="20260519083000 +0800">
+		<title lang="zh">愿望喵喵</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519083000 +0800" stop="20260519090000 +0800">
+		<title lang="zh">迷你特工队之最强恐龙</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519090000 +0800" stop="20260519100000 +0800">
+		<title lang="zh">无敌鹿战队</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519100000 +0800" stop="20260519110000 +0800">
+		<title lang="zh">棉花糖和云朵妈妈暖心回响</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519110000 +0800" stop="20260519120000 +0800">
+		<title lang="zh">少年英雄小哪吒</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519120000 +0800" stop="20260519123000 +0800">
+		<title lang="zh">海底小纵队</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519123000 +0800" stop="20260519125500 +0800">
+		<title lang="zh">来玩吧</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519125500 +0800" stop="20260519135500 +0800">
+		<title lang="zh">无敌鹿战队</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519135500 +0800" stop="20260519140000 +0800">
+		<title lang="zh">新大头儿子和小头爸爸英雄梦</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519140000 +0800" stop="20260519150000 +0800">
+		<title lang="zh">棉花糖和云朵妈妈暖心回响</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519150000 +0800" stop="20260519160000 +0800">
+		<title lang="zh">少年英雄小哪吒</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519160000 +0800" stop="20260519170000 +0800">
+		<title lang="zh">无敌鹿战队</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519170000 +0800" stop="20260519180000 +0800">
+		<title lang="zh">海底小纵队</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519180000 +0800" stop="20260519182500 +0800">
+		<title lang="zh">来玩吧</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519182500 +0800" stop="20260519185500 +0800">
+		<title lang="zh">奔奔小飞车</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519185500 +0800" stop="20260519190000 +0800">
+		<title lang="zh">新大头儿子和小头爸爸英雄梦</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519190000 +0800" stop="20260519190500 +0800">
+		<title lang="zh">来玩吧</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519190500 +0800" stop="20260519193500 +0800">
+		<title lang="zh">愿望喵喵</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519193500 +0800" stop="20260519200500 +0800">
+		<title lang="zh">迷你特工队之最强恐龙</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519200500 +0800" stop="20260519210000 +0800">
+		<title lang="zh">无敌鹿战队</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519210000 +0800" stop="20260519220000 +0800">
+		<title lang="zh">少年英雄小哪吒</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519220000 +0800" stop="20260519233000 +0800">
 		<title lang="zh">凤凰台上</title>
 	</programme>
-	<programme channel="优漫卡通" start="20260518233000 +0800" stop="20260519000000 +0800">
+	<programme channel="优漫卡通" start="20260519233000 +0800" stop="20260519235900 +0800">
 		<title lang="zh">愿望喵喵</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260519235900 +0800" stop="20260520000000 +0800">
+		<title lang="zh">结束</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260520000000 +0800" stop="20260520003000 +0800">
+		<title lang="zh">迷你特工队之最强恐龙</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260520003000 +0800" stop="20260520010000 +0800">
+		<title lang="zh">奔奔小飞车</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260520010000 +0800" stop="20260520050000 +0800">
+		<title lang="zh">棉花糖和云朵妈妈暖心回响</title>
 	</programme>
 	<channel id="金鹰纪实">
 		<display-name lang="zh">金鹰纪实</display-name>
 	</channel>
-	<programme channel="金鹰纪实" start="20260511000000 +0800" stop="20260511011000 +0800">
-		<title lang="zh">动物星球精编版</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511011000 +0800" stop="20260511013000 +0800">
-		<title lang="zh">我的纪录片</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511013000 +0800" stop="20260511024000 +0800">
-		<title lang="zh">点赞中国</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511024000 +0800" stop="20260511025500 +0800">
-		<title lang="zh">纪录时间</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511025500 +0800" stop="20260511031000 +0800">
-		<title lang="zh">纪实真好看</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511031000 +0800" stop="20260511035000 +0800">
-		<title lang="zh">探索</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511035000 +0800" stop="20260511044000 +0800">
-		<title lang="zh">传奇</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511044000 +0800" stop="20260511055000 +0800">
-		<title lang="zh">历史片场</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511055000 +0800" stop="20260511072000 +0800">
-		<title lang="zh">历史片场</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511072000 +0800" stop="20260511075000 +0800">
-		<title lang="zh">探索</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511075000 +0800" stop="20260511082500 +0800">
-		<title lang="zh">纪实真好看</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511082500 +0800" stop="20260511094000 +0800">
-		<title lang="zh">历史片场</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511094000 +0800" stop="20260511105000 +0800">
-		<title lang="zh">点赞中国</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511105000 +0800" stop="20260511120000 +0800">
-		<title lang="zh">历史片场</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511120000 +0800" stop="20260511123500 +0800">
-		<title lang="zh">历史片场</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511123500 +0800" stop="20260511133500 +0800">
-		<title lang="zh">纪实风云</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511133500 +0800" stop="20260511144500 +0800">
-		<title lang="zh">历史片场</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511144500 +0800" stop="20260511153500 +0800">
-		<title lang="zh">纪录时间</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511153500 +0800" stop="20260511162800 +0800">
-		<title lang="zh">传奇</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511162800 +0800" stop="20260511171000 +0800">
-		<title lang="zh">探索</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511171000 +0800" stop="20260511184000 +0800">
-		<title lang="zh">寰宇地理</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511184000 +0800" stop="20260511191500 +0800">
-		<title lang="zh">动物星球</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511191500 +0800" stop="20260511192000 +0800">
-		<title lang="zh">纪实风云</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511192000 +0800" stop="20260511195000 +0800">
-		<title lang="zh">纪录时间</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511195000 +0800" stop="20260511204000 +0800">
-		<title lang="zh">点赞中国</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511204000 +0800" stop="20260511204500 +0800">
-		<title lang="zh">党史上的今天</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511204500 +0800" stop="20260511211000 +0800">
-		<title lang="zh">我的纪录片</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511211000 +0800" stop="20260511214000 +0800">
-		<title lang="zh">纪实真好看</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511214000 +0800" stop="20260511222500 +0800">
-		<title lang="zh">历史片场</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511222500 +0800" stop="20260511223000 +0800">
-		<title lang="zh">纪实风云</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511223000 +0800" stop="20260511232000 +0800">
-		<title lang="zh">探索</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511232000 +0800" stop="20260511235000 +0800">
-		<title lang="zh">传奇</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260511235000 +0800" stop="20260512011000 +0800">
+	<programme channel="金鹰纪实" start="20260512000000 +0800" stop="20260512011000 +0800">
 		<title lang="zh">动物星球精编版</title>
 	</programme>
 	<programme channel="金鹰纪实" start="20260512011000 +0800" stop="20260512013000 +0800">
@@ -13436,6 +13337,201 @@
 	</programme>
 	<programme channel="金鹰纪实" start="20260517235000 +0800" stop="20260518000000 +0800">
 		<title lang="zh">看世界</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518000000 +0800" stop="20260518011000 +0800">
+		<title lang="zh">动物星球精编版</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518011000 +0800" stop="20260518013000 +0800">
+		<title lang="zh">我的纪录片</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518013000 +0800" stop="20260518024000 +0800">
+		<title lang="zh">点赞中国</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518024000 +0800" stop="20260518025500 +0800">
+		<title lang="zh">纪录时间</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518025500 +0800" stop="20260518031000 +0800">
+		<title lang="zh">纪实真好看</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518031000 +0800" stop="20260518035000 +0800">
+		<title lang="zh">探索</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518035000 +0800" stop="20260518044000 +0800">
+		<title lang="zh">传奇</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518044000 +0800" stop="20260518055000 +0800">
+		<title lang="zh">历史片场</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518055000 +0800" stop="20260518072000 +0800">
+		<title lang="zh">历史片场</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518072000 +0800" stop="20260518075000 +0800">
+		<title lang="zh">探索</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518075000 +0800" stop="20260518082500 +0800">
+		<title lang="zh">纪实真好看</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518082500 +0800" stop="20260518094000 +0800">
+		<title lang="zh">历史片场</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518094000 +0800" stop="20260518105000 +0800">
+		<title lang="zh">点赞中国</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518105000 +0800" stop="20260518120000 +0800">
+		<title lang="zh">历史片场</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518120000 +0800" stop="20260518123500 +0800">
+		<title lang="zh">历史片场</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518123500 +0800" stop="20260518133500 +0800">
+		<title lang="zh">纪实风云</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518133500 +0800" stop="20260518144500 +0800">
+		<title lang="zh">历史片场</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518144500 +0800" stop="20260518153500 +0800">
+		<title lang="zh">纪录时间</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518153500 +0800" stop="20260518162800 +0800">
+		<title lang="zh">传奇</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518162800 +0800" stop="20260518171000 +0800">
+		<title lang="zh">探索</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518171000 +0800" stop="20260518184000 +0800">
+		<title lang="zh">寰宇地理</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518184000 +0800" stop="20260518191500 +0800">
+		<title lang="zh">动物星球</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518191500 +0800" stop="20260518192000 +0800">
+		<title lang="zh">纪实风云</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518192000 +0800" stop="20260518195000 +0800">
+		<title lang="zh">纪录时间</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518195000 +0800" stop="20260518204000 +0800">
+		<title lang="zh">点赞中国</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518204000 +0800" stop="20260518204500 +0800">
+		<title lang="zh">党史上的今天</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518204500 +0800" stop="20260518211000 +0800">
+		<title lang="zh">我的纪录片</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518211000 +0800" stop="20260518214000 +0800">
+		<title lang="zh">纪实真好看</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518214000 +0800" stop="20260518222500 +0800">
+		<title lang="zh">历史片场</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518222500 +0800" stop="20260518223000 +0800">
+		<title lang="zh">纪实风云</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518223000 +0800" stop="20260518232000 +0800">
+		<title lang="zh">探索</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518232000 +0800" stop="20260518235000 +0800">
+		<title lang="zh">传奇</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260518235000 +0800" stop="20260519011000 +0800">
+		<title lang="zh">动物星球精编版</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519011000 +0800" stop="20260519013000 +0800">
+		<title lang="zh">我的纪录片</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519013000 +0800" stop="20260519024000 +0800">
+		<title lang="zh">点赞中国</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519024000 +0800" stop="20260519025500 +0800">
+		<title lang="zh">纪录时间</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519025500 +0800" stop="20260519031000 +0800">
+		<title lang="zh">纪实真好看</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519031000 +0800" stop="20260519035000 +0800">
+		<title lang="zh">探索</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519035000 +0800" stop="20260519044000 +0800">
+		<title lang="zh">传奇</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519044000 +0800" stop="20260519055000 +0800">
+		<title lang="zh">历史片场</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519055000 +0800" stop="20260519072000 +0800">
+		<title lang="zh">历史片场</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519072000 +0800" stop="20260519075000 +0800">
+		<title lang="zh">探索</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519075000 +0800" stop="20260519082500 +0800">
+		<title lang="zh">纪实真好看</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519082500 +0800" stop="20260519094000 +0800">
+		<title lang="zh">历史片场</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519094000 +0800" stop="20260519105000 +0800">
+		<title lang="zh">点赞中国</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519105000 +0800" stop="20260519120000 +0800">
+		<title lang="zh">历史片场</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519120000 +0800" stop="20260519123500 +0800">
+		<title lang="zh">历史片场</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519123500 +0800" stop="20260519133500 +0800">
+		<title lang="zh">纪实风云</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519133500 +0800" stop="20260519144500 +0800">
+		<title lang="zh">历史片场</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519144500 +0800" stop="20260519153500 +0800">
+		<title lang="zh">纪录时间</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519153500 +0800" stop="20260519162800 +0800">
+		<title lang="zh">传奇</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519162800 +0800" stop="20260519171000 +0800">
+		<title lang="zh">探索</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519171000 +0800" stop="20260519184000 +0800">
+		<title lang="zh">寰宇地理</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519184000 +0800" stop="20260519191500 +0800">
+		<title lang="zh">动物星球</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519191500 +0800" stop="20260519192000 +0800">
+		<title lang="zh">纪实风云</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519192000 +0800" stop="20260519195000 +0800">
+		<title lang="zh">纪录时间</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519195000 +0800" stop="20260519204000 +0800">
+		<title lang="zh">点赞中国</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519204000 +0800" stop="20260519204500 +0800">
+		<title lang="zh">党史上的今天</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519204500 +0800" stop="20260519211000 +0800">
+		<title lang="zh">我的纪录片</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519211000 +0800" stop="20260519214000 +0800">
+		<title lang="zh">纪实真好看</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519214000 +0800" stop="20260519222500 +0800">
+		<title lang="zh">历史片场</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519222500 +0800" stop="20260519223000 +0800">
+		<title lang="zh">纪实风云</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519223000 +0800" stop="20260519232000 +0800">
+		<title lang="zh">探索</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519232000 +0800" stop="20260519235000 +0800">
+		<title lang="zh">传奇</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260519235000 +0800" stop="20260520000000 +0800">
+		<title lang="zh">动物星球精编版</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
